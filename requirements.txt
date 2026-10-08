@@ -494,3 +494,4 @@ yarl @ file:///Users/runner/miniforge3/conda-bld/yarl_1761336906374/work
 yt-dlp==2026.2.4
 zipp @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_zipp_1764460141/work
 zstandard @ file:///opt/miniconda3/conda-bld/zstandard_1758189078532/work
+mcp<2
